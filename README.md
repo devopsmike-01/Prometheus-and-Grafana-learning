@@ -1,8 +1,8 @@
 # Prometheus-and-Grafana-Learning Repo
+- This repo is maintained by [Devops with Mike](https://www.youtube.com/@DevOpsWithMike0/videos/)
+- For interview preparation, use this platform [Wandaprep](http://www.wandaprep.com/)
+- Visit my website for more inquiries and support [DevOpswithMike](https://devopswithmike.tech/).
 
-This repo is maintained by [Devops with Mike](https://www.youtube.com/@DevOpsWithMike0/videos/)
-
-For Cloud and DevOps interview preparation, use this platform [Wandaprep](http://www.wandaprep.com/)
 
 # Monitoring and Observability in DevOps
 Monitoring and observability are key concepts in DevOps, enabling teams to track the health, performance, and behavior of applications, infrastructure, and services. They help with early detection of issues, performance bottlenecks, and support proactive system maintenance.
